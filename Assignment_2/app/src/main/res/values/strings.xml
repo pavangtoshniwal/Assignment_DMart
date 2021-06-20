@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment_2</string>
+
+    <string name="dollar_symbol">"$ "</string>
+</resources>
